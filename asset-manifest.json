@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-folio/static/css/main.6805782a.chunk.css",
+    "main.js": "/my-folio/static/js/main.be6a76d7.chunk.js",
+    "main.js.map": "/my-folio/static/js/main.be6a76d7.chunk.js.map",
+    "runtime-main.js": "/my-folio/static/js/runtime-main.41a7e66b.js",
+    "runtime-main.js.map": "/my-folio/static/js/runtime-main.41a7e66b.js.map",
+    "static/css/2.95353e2a.chunk.css": "/my-folio/static/css/2.95353e2a.chunk.css",
+    "static/js/2.c0fc1a0a.chunk.js": "/my-folio/static/js/2.c0fc1a0a.chunk.js",
+    "static/js/2.c0fc1a0a.chunk.js.map": "/my-folio/static/js/2.c0fc1a0a.chunk.js.map",
+    "static/js/3.5d57425f.chunk.js": "/my-folio/static/js/3.5d57425f.chunk.js",
+    "static/js/3.5d57425f.chunk.js.map": "/my-folio/static/js/3.5d57425f.chunk.js.map",
+    "index.html": "/my-folio/index.html",
+    "static/css/2.95353e2a.chunk.css.map": "/my-folio/static/css/2.95353e2a.chunk.css.map",
+    "static/css/main.6805782a.chunk.css.map": "/my-folio/static/css/main.6805782a.chunk.css.map",
+    "static/js/2.c0fc1a0a.chunk.js.LICENSE.txt": "/my-folio/static/js/2.c0fc1a0a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/my-folio/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41a7e66b.js",
+    "static/css/2.95353e2a.chunk.css",
+    "static/js/2.c0fc1a0a.chunk.js",
+    "static/css/main.6805782a.chunk.css",
+    "static/js/main.be6a76d7.chunk.js"
+  ]
+}
